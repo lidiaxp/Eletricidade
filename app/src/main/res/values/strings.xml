@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eletricidade</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_escolha2">escolha2</string>
+    <string name="title_activity_consumo">Consumo</string>
+    <string name="title_activity_cores">Cores</string>
+    <string name="title_activity_verde">verde</string>
+    <string name="title_activity_azul">azul</string>
+    <string name="title_activity_convencional">convencional</string>
+</resources>
